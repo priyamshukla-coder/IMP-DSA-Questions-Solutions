@@ -1,6 +1,5 @@
 '''
 Problem Link : https://leetcode.com/problems/pascals-triangle/
-Date : 14/04/2022
 
 '''
 

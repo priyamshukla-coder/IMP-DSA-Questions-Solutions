@@ -1,6 +1,5 @@
 '''
 Problem Link : https://leetcode.com/problems/set-matrix-zeroes/
-Date : 13/04/2022
 
 '''
 

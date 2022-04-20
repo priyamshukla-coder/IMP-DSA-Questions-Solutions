@@ -1,6 +1,5 @@
 '''
 Problem Link : https://leetcode.com/problems/next-permutation/
-Date : 15/04/2022
 T.C. : O(N)
 S.C. : O(1)
 
