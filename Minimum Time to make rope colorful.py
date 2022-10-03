@@ -22,7 +22,7 @@ class Solution:
                 
             res=res+(curr-mx)
             
-            i=i+1
+            i=j
             
         return res
                 
