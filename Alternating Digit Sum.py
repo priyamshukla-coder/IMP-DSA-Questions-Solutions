@@ -8,4 +8,4 @@ class Solution:
             n[i]=n[i]*-1
             
         return sum(n)
-            
+        
