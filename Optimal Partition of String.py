@@ -14,5 +14,3 @@ class Solution:
                 d1[i]=1
         
         return cnt+1
-            
-            
