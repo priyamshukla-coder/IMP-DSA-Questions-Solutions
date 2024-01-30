@@ -1,6 +1,9 @@
 class Solution:
     def findCircleNum(self, isConnected: List[List[int]]) -> int:
 
+        # S.C. : O(N) // for visited array
+        # T.C. : O(N)+O(V+2*E) ~~O(N)
+
         def dfs(node,graph,vis):
 
             vis[node]=1
