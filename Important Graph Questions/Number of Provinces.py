@@ -22,7 +22,7 @@ class Solution:
 
             for j in range(n):
 
-                if i!=j and isConnected[i][j]==1:
+                if i!=j and isConnected[i][j]==1: #i!=j to check self loop
 
                     adj_mat[i].append(j)
 
